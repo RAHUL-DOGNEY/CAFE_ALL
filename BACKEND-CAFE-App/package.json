@@ -1,0 +1,29 @@
+{
+    "name": "backend-cafe-app",
+    "version": "1.0.0",
+    "description": "capston project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon serve.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/r3532/cafe-management.git"
+    },
+    "author": "rahul",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/r3532/cafe-management/issues"
+    },
+    "homepage": "https://gitlab.com/r3532/cafe-management#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "mongoose": "^6.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.18"
+    }
+}

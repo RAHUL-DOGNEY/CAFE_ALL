@@ -1,0 +1,8 @@
+dotenv :- file use Globle variables , like PORT 
+
+corse:- connect from frontend to backend , cross origin like how access resources
+
+urlecoder:-whenever passing some value in url we are get it from here
+
+
+connection.js :- connect provider file
